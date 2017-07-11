@@ -6,7 +6,7 @@ body{
 }
 #d1{
     width: 16rem;
-    margin:30%  auto;
+    margin:50%  auto;
 }
 input{
     font-size:1.4rem;
@@ -36,7 +36,7 @@ input{
     display: none;
     height: 16rem;
     width: 20rem;
-    margin:50%  auto;
+    margin:25%  auto;
 }
 .h4{
     padding-left: 4rem;
